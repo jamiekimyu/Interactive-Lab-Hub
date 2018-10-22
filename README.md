@@ -7,7 +7,7 @@ Completed Labs:
 4. [Lab 4](https://github.com/jamiekimyu/IDD-Fa18-Lab4)
 5. [Lab 5](https://github.com/jamiekimyu/IDD-Fa18-Lab5)
 6. [Lab 6](https://github.com/jamiekimyu/IDD-Fa18-Lab6)
-
+7. [Lab 7](https://github.com/jamiekimyu/IDD-Fa18-Lab6)
 
 Lab Prep:
 1. Prelab 1 - Not required
